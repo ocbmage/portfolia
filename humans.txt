@@ -3,14 +3,14 @@ __  __  __
  \ \/\ \
   \/  \/
 
-The humans.txt file explains the team, technology,
-and graphic assets behind this site humanstxt.org.
+The thimba.txt file explains the team, technology,
+and graphic assets behind this site thimba.org.
 
 _______________________________________________________________________________
 
-DESIGNER | デザイナー
+DESIGNER
 
-Hamish Williams
+Thimba
 Hand crafted design & web development
 
 Design tools:
@@ -19,11 +19,10 @@ Photoshop
 Blender
 
 twitter.com/hamishmw
-github.com/hamishmw
 
 _______________________________________________________________________________
 
-TECHNOLOGY | テクノロジー
+TECHNOLOGY
 
 React
 Next.js
@@ -32,7 +31,7 @@ Framer Motion
 
 _______________________________________________________________________________
 
-FONTS | フォント
+FONTS
 
 Gotham
 Hiragino Kaku Gothic
